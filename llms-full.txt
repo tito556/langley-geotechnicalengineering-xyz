@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Langley
+
+> Geotechnical engineering services in Langley, Canada.
+
+## Services
+- [Anchors](https://langley.geotechnicalengineering.xyz/anchors/)
+- [Atterberg Limits](https://langley.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cbr Road](https://langley.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://langley.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://langley.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://langley.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://langley.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://langley.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://langley.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://langley.geotechnicalengineering.xyz/foundations/)
+- [Grain Size](https://langley.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://langley.geotechnicalengineering.xyz/ground-improvement/)
+- [Grouting](https://langley.geotechnicalengineering.xyz/grouting/)
+- [In Situ Permeability](https://langley.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://langley.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://langley.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://langley.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://langley.geotechnicalengineering.xyz/liquefaction/)
+- [Masw](https://langley.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://langley.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://langley.geotechnicalengineering.xyz/piles/)
+- [Proctor Tests](https://langley.geotechnicalengineering.xyz/proctor-tests/)
+- [Resistivity](https://langley.geotechnicalengineering.xyz/resistivity/)
+- [Retaining Walls](https://langley.geotechnicalengineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://langley.geotechnicalengineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://langley.geotechnicalengineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://langley.geotechnicalengineering.xyz/sand-cone-density/)
+- [Seismic](https://langley.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://langley.geotechnicalengineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://langley.geotechnicalengineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://langley.geotechnicalengineering.xyz/seismic-refraction/)
+- [Slope Stability](https://langley.geotechnicalengineering.xyz/slope-stability/)
+- [Slopes](https://langley.geotechnicalengineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://langley.geotechnicalengineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://langley.geotechnicalengineering.xyz/spt-drilling/)
+- [Stone Columns](https://langley.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://langley.geotechnicalengineering.xyz/test-pits/)
+- [Triaxial](https://langley.geotechnicalengineering.xyz/triaxial/)
+- [Vibrocompaction](https://langley.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://langley.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Langley, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
